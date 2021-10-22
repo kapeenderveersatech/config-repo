@@ -1,4 +1,4 @@
 msg: duhan23213
 logging:
  level:
-   root: INFO
+   root: debug
